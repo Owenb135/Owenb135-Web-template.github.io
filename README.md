@@ -1,3 +1,4 @@
+[![Deploy static content to Pages](https://github.com/Owenb135/Owenb135.github.io/actions/workflows/static.yml/badge.svg)](https://github.com/Owenb135/Owenb135.github.io/actions/workflows/static.yml)
 # My GitHub Pages Website
 
 A simple, clean HTML website hosted on GitHub Pages.
