@@ -1,5 +1,5 @@
 [![Deploy static content to Pages](https://github.com/Owenb135/Owenb135.github.io/actions/workflows/static.yml/badge.svg)](https://github.com/Owenb135/Owenb135.github.io/actions/workflows/static.yml)
-# My GitHub Pages Website
+# My Template GitHub Pages Website
 
 A simple, clean HTML website hosted on GitHub Pages.
 
@@ -11,10 +11,16 @@ A simple, clean HTML website hosted on GitHub Pages.
 - 🎨 Modern design
 
 ## How to use
+ 1. Clone this to your computer
+ 2. Edit `index.html` to customize your content
+ 3. Re-upload to github after editing it (You must change the template, no copies allowed)
+ 4. Make sure your new web is public on github
+ 5. Go to `Settings -->> Pages`
+ 6. Under "Build and deployment", under "Source", select Deploy from a branch.
+ 7. Under "Build and deployment", under "Branch", use the branch dropdown menu and select a publishing source. 
+ 8. Visit `https://{your-new-page}.github.io` to see your site live
 
-1. Edit `index.html` to customize your content
-2. Push changes to the `main` branch
-3. Visit `https://owenb135.github.io` to see your site live
+Note: steps 6 and 7 are from the offical Github Pages documentation, not from me.
 
 ## Customization
 
