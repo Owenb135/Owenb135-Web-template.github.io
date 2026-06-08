@@ -1,5 +1,5 @@
 [![Deploy static content to Pages](https://github.com/Owenb135/Owenb135-Web-template.github.io/actions/workflows/static.yml/badge.svg)](https://github.com/Owenb135/Owenb135-Web-template.github.io/actions/workflows/static.yml)
-[![li](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.png)](github.com/owenb135)
+[![li](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/github-icon.png)](https://github.com/owenb135)
 # My Template GitHub Pages Website
 
 A simple, clean HTML website hosted on GitHub Pages.
